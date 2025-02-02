@@ -1,0 +1,15 @@
+{
+    "name": "admin/newaes",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Newaes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "furiscom",
+            "email": "mfurqanhakim139@unama.ac.id"
+        }
+    ],
+    "require": {}
+}
